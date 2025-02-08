@@ -120,12 +120,12 @@
 ## 🚧 Current Projects
 
 ### 🤖 AI-Powered Chat Application
-**Tech Stack:** MERN Stack | TypeScript | OpenAI API | JWT | Socket.io | Docker | AWS. 
+**Tech Stack:** MERN Stack | TypeScript | OpenAI API | JWT | Socket.io | Docker | AWS.  
 [![Documentation](https://img.shields.io/badge/Docs-4F8CC9?style=for-the-badge&logo=readthedocs)](https://yourdocs.link)  
 [![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/yourrepo)
 
 ### ☁️ Image Upscaler using ESRGAN
-**Tech Stack:** Python | TensorFlow | OpenCV | ESRGAN | CUDA | Flask.
+**Tech Stack:** Python | TensorFlow | OpenCV | ESRGAN | CUDA | Flask.  
 [![Documentation](https://img.shields.io/badge/Docs-4F8CC9?style=for-the-badge&logo=readthedocs)](https://yourdocs.link)  
 [![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/yourrepo)
 
