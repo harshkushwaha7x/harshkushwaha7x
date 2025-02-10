@@ -91,6 +91,14 @@
 
 ---
 
+## 🎮 Snake Game
+
+<div align="center">
+  <img src="https://github.com/harshkushwaha7x/harshkushwaha7x/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+---
+
 ## 🔥 Streak Stats
 
 <div align="center">
