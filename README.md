@@ -128,7 +128,7 @@
 
 ### ☁️ Image Upscaler using ESRGAN
 **Tech Stack:** Python | TensorFlow | OpenCV | ESRGAN | CUDA | Flask.  
-[![Documentation](https://img.shields.io/badge/Docs-4F8CC9?style=for-the-badge&logo=readthedocs)](https://github.com/harshkushwaha7x/-Image-Upscaler-using-ESRGAN.git)  
+[![Documentation](https://img.shields.io/badge/Docs-4F8CC9?style=for-the-badge&logo=readthedocs)](https://github.com/harshkushwaha7x/Image-Upscaler-using-ESRGAN.git)  
 [![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/yourrepo)
 
 ---
