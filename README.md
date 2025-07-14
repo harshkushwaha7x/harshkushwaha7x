@@ -96,7 +96,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaha7x&theme=dark&hide_border=true&background=0D1117&dates=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak](https://git-hub-streak-stats.vercel.app?user=harshkushwaha7x&theme=transparent&hide_border=true)](https://git.io/streak-stats)" />
+    <img height="180em" src="https://git-hub-streak-stats.vercel.app?user=harshkushwaha7x&theme=transparent)](https://git.io/streak-stats"/>
 </div>
 
 ---
