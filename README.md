@@ -91,13 +91,11 @@
   </a>
 </div>
 
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaha7x&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkushwaha7x&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
