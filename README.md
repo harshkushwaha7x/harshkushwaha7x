@@ -11,7 +11,7 @@
 
 **Full Stack Web Developer with AI/ML | AI & Cloud Enthusiast | Open-Source Contributor**
 
-- **Current Focus:** Building AI-powered apps with Generative AI and NLP, and enhancing cloud-native deployments.
+- **Current Focus:** Building AI-powered apps with Generative AI and MERN stack, and enhancing cloud-native deployments.
 - **Collaboration:** Open-source projects in AI/ML, Full-Stack Development, or Cloud Solutions.
 - **Looking For Help With:** Advanced concepts in Vector Databases and distributed systems.
 - **Learning:** Vector Databases, Distributed Systems, and Advanced Generative AI models.
