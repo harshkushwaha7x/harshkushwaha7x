@@ -113,5 +113,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harshkushwaha7x&style=flat-square&color=00A3FF" alt="Profile Views"/>
   <br/>
-  <i>☕ Turning coffee into clean, scalable code since 2021</i>
+  <i>☕ Turning coffee into clean, scalable code since 2022</i>
 </div>
