@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me  
+## 🎯 About Me  
 
 **Full Stack Web Developer | AI & Cloud Enthusiast | Open-Source Contributor**
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tech Arsenal  
+## 🧰 Tech Stack  
 
 ### 👨‍💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
