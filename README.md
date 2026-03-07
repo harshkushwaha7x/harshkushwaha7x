@@ -100,7 +100,7 @@
   <a href="https://leetcode.com/u/harsh_kushwaha_7x" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://portflio-3.vercel.app/" target="_blank">
+  <a href="https://portfolio-harsh7x.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=briefcase&logoColor=00FFFF" />
   </a>
   <a href="mailto:harshkushwaha4151@gmail.com">
@@ -113,5 +113,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harshkushwaha7x&style=flat-square&color=00A3FF" alt="Profile Views"/>
   <br/>
-  <i>☕ Turning coffee into clean, scalable code since 2020</i>
+  <i>☕ Turning coffee into clean, scalable code since 2022</i>
 </div>
